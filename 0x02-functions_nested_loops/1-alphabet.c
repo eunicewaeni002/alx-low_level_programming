@@ -3,6 +3,9 @@
 
 	/**
 	 * print_alphabet - print all alphabet in lowercase
+	 *
+	 * Description -A program that prints all alphabet in lowercase
+	 *
 	 */
 
 
